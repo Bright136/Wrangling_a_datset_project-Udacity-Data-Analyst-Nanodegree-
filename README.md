@@ -65,3 +65,12 @@ The following questions were used in the analysis:
 
 ### Reports
 - Wrangle Report: A summary of the project was documented in the `wrangle_report.pdf` file: [Wrangle Report](https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/reports/w
+
+rangle_report.pdf)
+- Act Report: The insights and visualizations were documented in the `act_report.pdf` file: [Act Report](https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/reports/act_report.pdf)
+
+### Photo of Atticus, the most rated dog by WeRateDogs
+
+<div align='center'> 
+    <img src="https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/images/Aticus.jpg"/>
+</div>
