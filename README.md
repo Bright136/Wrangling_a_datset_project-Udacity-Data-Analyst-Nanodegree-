@@ -1,6 +1,6 @@
 # WeRateDogs' Tweets Analysis
 <div align='center'> 
-    <img src="https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/images/dogs(1).jpg"/>
+    <img src="https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/images/dogs%20(1).jpg"/>
 
 </div>
 > This project was submitted as project two for Udacity's Data Analyst Nanodegree program.
