@@ -1,4 +1,8 @@
 # WeRateDogs' Tweets Analysis
+<div align='center'> 
+    <img src="https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/images/dogs(1).jpg"/>
+
+</div>
 > This project was submitted as project two for Udacity's Data Analyst Nanodegree program.
 The goal of this Project is to wrangle WeRateDogs Twitter data to create interesting and 
 trustworthy analyses and visualizations. WeRateDogs is a Twitter account that rates people’s 
@@ -72,13 +76,20 @@ number of images on the retweet and favorite counts on high rated dogs?
 #### Wrangle Report
 >  A summary of the project was documented in wrangle_report.pdf file. 
 
->- [Wrangle Report](https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/wrangle_report.pdf)
+>- [Wrangle Report](https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/reports/wrangle_report.pdf)
 
 #### Act Report
 > The insights communicated were also docummented in the act_report.pdf file.
->- [Act Report](https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/act_report.pdf)
+>- [Act Report](https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/reports/act_report.pdf)
 
->- [A Photo of Atticus, the most rated dog by WeRateDogs](https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/Aticus.jpg)
+
+#### A Photo of Atticus, the most rated dog by WeRateDogs
+
+<div align='center'> 
+    <img src="https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/images/Aticus.jpg"/>
+
+</div>
+
 
 
 
