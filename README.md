@@ -3,6 +3,8 @@
     <img src="https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/images/dogs%20(1).jpg"/>
 
 </div>
+
+## Introduction
 > This project was submitted as project two for Udacity's Data Analyst Nanodegree program.
 The goal of this Project is to wrangle WeRateDogs Twitter data to create interesting and 
 trustworthy analyses and visualizations. WeRateDogs is a Twitter account that rates people’s 
@@ -72,6 +74,12 @@ The datasets were merged into a one DataFrame and stored as twitter_archive_mast
 >- What is the relationship between retweet_count and favorite_count?
 >- What was the highest rating attained by a dog and what was the impact of the 
 number of images on the retweet and favorite counts on high rated dogs?
+
+
+## Deliveries
+#### Notebooks
+>- The analysis is found in the wrangle_act.ipynb nootebook
+>- [Wrangle Report](https://github.com/Bright136/Wrangling_a_datset_project-Udacity-Data-Analyst-Nanodegree-/blob/master/wrangle_act.ipynb )
 
 #### Wrangle Report
 >  A summary of the project was documented in wrangle_report.pdf file. 
